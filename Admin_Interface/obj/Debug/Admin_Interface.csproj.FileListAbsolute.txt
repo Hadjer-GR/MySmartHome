@@ -1,0 +1,9 @@
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Admin_Interface\bin\Debug\Admin_Interface.dll
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Admin_Interface\bin\Debug\Admin_Interface.pdb
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Admin_Interface\obj\Debug\Admin_Interface.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Admin_Interface\obj\Debug\Admin_Interface.dll
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Admin_Interface\obj\Debug\Admin_Interface.pdb
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Admin_Interface\bin\Debug\Krypton.Toolkit.dll
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Admin_Interface\bin\Debug\Krypton.Toolkit.xml
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Admin_Interface\obj\Debug\Admin_Interface.csproj.CopyComplete
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Admin_Interface\obj\Debug\Admin_Interface.csproj.AssemblyReference.cache

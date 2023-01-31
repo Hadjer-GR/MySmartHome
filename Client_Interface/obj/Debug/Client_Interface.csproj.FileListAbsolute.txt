@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Client_Interface\bin\Debug\Client_Interface.dll
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Client_Interface\bin\Debug\Client_Interface.pdb
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Client_Interface\obj\Debug\Client_Interface.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Client_Interface\obj\Debug\Client_Interface.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Client_Interface\obj\Debug\Client_Interface.dll
+C:\Users\pc\Documents\Visual Studio 2019\Projects\POC_project\Client_Interface\obj\Debug\Client_Interface.pdb
